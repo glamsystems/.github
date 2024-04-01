@@ -4,14 +4,14 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/glamsystems/brand_assets/main/github/github_banner_dark.svg">
     <img alt="GLAM *.+ The New Standard for Asset Management." src="https://raw.githubusercontent.com/glamsystems/brand_assets/main/github/github_banner_dark.svg">
   </picture>
-<br>
+ <!--<br>
     <a href="https://glam.systems" target="_blank">Website</a> | 
     <a href="mailto:dev@glam.systems" target="_blank">Contact</a> | 
-    <a href="https://x.com/glamsystems" target="_blank">X</a> <!--| 
-    <a href="https://warpcast.com/glamsystems" target="_blank">F</a>-->
+    <a href="https://x.com/glamsystems" target="_blank">X</a>| 
+    <a href="https://warpcast.com/glamsystems" target="_blank">F</a>
     <br>
     <br>
-    <br>
+    <br>-->
 </p>
 
 ---
