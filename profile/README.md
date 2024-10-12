@@ -14,4 +14,4 @@
     <br>-->
 </p>
 
-<h4>GLAM is an onchain asset management and tokenization platform designed to facilitate the launch and management of digitally native investment products.</h4>
+<h3>GLAM is an onchain asset management and tokenization platform designed to facilitate the launch and management of digitally native investment products.</h3>
